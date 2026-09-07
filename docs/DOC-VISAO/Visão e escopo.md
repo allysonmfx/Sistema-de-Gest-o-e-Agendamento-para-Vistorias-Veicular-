@@ -47,7 +47,7 @@
 
 ### Não serão contemplados nesta aplicação:
 
-### Aplicativo nativo para Android ou iOS;
+### • Aplicativo nativo para Android ou iOS;
 ### • Integração direta com sistemas governamentais;
 ### • Emissão oficial de certificados ou documentos de inspeção;
 ### • Processamento de pagamentos online via PIX ou cartão;
