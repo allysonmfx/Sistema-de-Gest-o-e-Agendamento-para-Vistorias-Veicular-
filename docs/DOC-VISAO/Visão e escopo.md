@@ -8,11 +8,11 @@
 
 ## 2. Problemas e Nicho de Mercado 
 ### Problema que o Software Resolve 
-### O processo de agendamentos de Vistorias veiculares depende de meios de comunicação como WhatsApp, telefone ou atendimento presencial. Portanto, informações como horários, valores dos serviços, documentação necessária e dados do veículo precisam ser repassadas e registradas durante o atendimento ao cliente.
+### O processo de agendamentos de vistorias veiculares depende de meios de comunicação como WhatsApp, telefone ou atendimento presencial. Portanto, informações como horários, valores dos serviços, documentação necessária e dados do veículo precisam ser repassadas e registradas durante o atendimento ao cliente.
 ### A proposta busca facilitar esse processo, tornando mais simples para o cliente tirar dúvidas e realizar seu agendamento, enquanto a empresa poderá organizar e acompanhar os agendamentos e serviços em um único sistema. 
 
 ## Publico alvo 
-## O sistema é destinado a empresas prestadoras de serviços de Vistorias veicular e seus clientes, incluindo proprietários ou responsáveis por veículos que necessitem realizar vistoria para transferência de proprietário do veiculo, Mudança de Placa do veiculo, inclusão ou baixa de Gravame do veiculo. 
+## O sistema é destinado a empresas prestadoras de serviços de vistorias veicular e seus clientes, incluindo proprietários ou responsáveis por veículos que necessitem realizar vistoria para transferência de proprietário, Mudança de Placa, inclusão ou baixa de gravame. 
 
 ## 3. Descrição do Produto 
 ##   O que é o Produto? 
