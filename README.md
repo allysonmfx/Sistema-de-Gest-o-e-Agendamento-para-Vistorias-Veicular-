@@ -9,3 +9,9 @@ Empresas prestadoras de serviços de Vistorias veicular, atendendo proprietário
 
 # Objetivo
 Facilitar o processo de agendamento de Vistorias veiculares e proporcionar uma forma mais organizada de gerenciamento dos atendimentos.
+
+# Equipe
+1. Allyson Magno
+2. Ângelo Magno 
+
+
