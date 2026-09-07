@@ -21,6 +21,35 @@
 ### A plataforma terá uma área destinada aos clientes, na qual será possível consultar serviços, informações de como precisar estar seu veiculo, realizar agendamentos e uma área administrativa destinada aos gestores, permitindo o gerenciamento dos agendamentos, serviços e outras informações relacionadas aos atendimentos.
 
 
+## 4. Escopo do Projeto 
+
+### Nas futuras versões, o sistema deverá contemplar as seguintes funcionalidades:
+
+## Área Do Cliente: 
+### • Consulta dos serviços disponíveis; 
+### • Informações sobre a vistoria; 
+### • Cadastro de Clientes; 
+### • Consulta de datas e horários disponíveis; 
+### • Realização de agendamentos; 
+### • visualização dos próprios agendamentos; 
 
 
+## Área do Gestor 
+
+### • Autenticação do gestor;
+### • Visualização dos agendamentos; 
+### • Gerenciamento de agendamentos; 
+### • Consulta de informações de Clientes;
+### • Gerenciamento dos horários disponíveis;
+### • Acompanhamento de informações relacionadas ao faturamento.
+
+## 5. Fora do Escopo 
+
+### Não serão contemplados nesta aplicação:
+
+### Aplicativo nativo para Android ou iOS;
+### • Integração direta com sistemas governamentais;
+### • Emissão oficial de certificados ou documentos de inspeção;
+### • Processamento de pagamentos online via PIX ou cartão;
+### • Integração automática com WhatsApp;
    
